@@ -1,0 +1,16 @@
+{
+	"tenantId": "in.statea",
+	"moduleName": "BillingService",
+	"GLCode": [
+	{
+		"code": "BIRTH_CERT",
+		"glcode": null,
+		"cb": "in.statea.tenantx"
+	},
+	{
+		"code": "DEATH_CERT",
+		"glcode": null,
+		"cb": "in.statea.tenantx"
+	}
+	]
+}

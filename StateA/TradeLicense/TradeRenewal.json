@@ -2,8 +2,8 @@
   "tenantId": "in.statea",
   "moduleName": "TradeLicense",
   "TradeRenewal": [
-    {
-      "renewalPeriod" : 7889400000
-    }
-   ]
+      {
+          "renewalPeriod": 7889400000
+      }
+  ]
 }

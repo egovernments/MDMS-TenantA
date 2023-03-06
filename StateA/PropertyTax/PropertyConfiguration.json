@@ -1,0 +1,12 @@
+{
+    "tenantId": "in.statea",
+    "moduleName": "PropertyTax",
+    "PropertyConfiguration":[
+      {
+          "Mutation": {
+              "RegistrationDetails": true,
+              "MutationDetails": true
+          }
+      }
+    ]
+  }

@@ -1,0 +1,18 @@
+{
+    "tenantId": "in.statea",
+    "moduleName": "TradeLicense",
+    "ReminderPeriods": [
+      {
+        "tenantId": "in.statea.tenantx",
+        "reminderInterval": 691200000
+      },
+      {
+        "tenantId": "in.statea.tenanty",
+        "reminderInterval": 12345
+      },
+      {
+        "tenantId": "in.statea.tenantz",
+        "reminderInterval": 12345  
+      }
+    ]
+  }

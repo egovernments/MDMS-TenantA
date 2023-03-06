@@ -1,9 +1,10 @@
 {
- "tenantId": "in.statea",
- "moduleName": "RAINMAKER-PGR",
- "UIConstants": [
-   {
-     "REOPENSLA": 432000000
-   }
- ]
-}
+  "tenantId": "in.statea",
+  "moduleName": "RAINMAKER-PGR",
+  "UIConstants": [
+    {
+      "REOPENSLA": 432000000
+    }
+  ]
+ }
+ 
