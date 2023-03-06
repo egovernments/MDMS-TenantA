@@ -1,0 +1,56 @@
+{
+    "tenantId": "in.statea",
+    "moduleName": "Chatbot",
+    "CityLocaleMasterData": [
+        {
+            "cityName": "किरायेदार एक्स",
+            "locale": "in_en",
+            "tenantId": "in.statea.tenantx"
+        },
+        {
+            "cityName": "शहर अ",
+            "locale": "in_hi",
+            "tenantId": "in.statea.tenantx"
+        },
+        {
+            "cityName": "किरायेदार वाई",
+            "locale": "in_en",
+            "tenantId": "in.statea.tenanty"
+        },
+        {
+            "cityName": "शहर ब",
+            "locale": "in_hi",
+            "tenantId": "in.statea.tenanty"
+        },
+        {
+            "cityName": "किरायेदार जेड",
+            "locale": "in_en",
+            "tenantId": "in.statea.tenantz"
+        },
+        {
+            "cityName": "शहर स",
+            "locale": "in_hi",
+            "tenantId": "in.statea.tenantz"
+        },
+        {
+            "cityName": "City D",
+            "locale": "in_en",
+            "tenantId": "in.statea.cityd"
+        },
+        {
+            "cityName": "शहर डी",
+            "locale": "in_hi",
+            "tenantId": "in.statea.cityd"
+        },
+        {
+            "cityName": "City E",
+            "locale": "in_en",
+            "tenantId": "in.statea.citye"
+        },
+        {
+            "cityName": "शहर ई",
+            "locale": "in_hi",
+            "tenantId": "in.statea.citye"
+        }
+    ]
+}
