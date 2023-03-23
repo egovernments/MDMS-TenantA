@@ -3,32 +3,32 @@
     "moduleName": "Chatbot",
     "CityLocaleMasterData": [
         {
-            "cityName": "किरायेदार एक्स",
+            "cityName": "Tenant X",
             "locale": "in_en",
             "tenantId": "in.statea.tenantx"
         },
         {
-            "cityName": "शहर अ",
+            "cityName": "किरायेदार एक्स",
             "locale": "in_hi",
             "tenantId": "in.statea.tenantx"
+        },
+        {
+            "cityName": "Tenant Y",
+            "locale": "in_en",
+            "tenantId": "in.statea.tenanty"
         },
         {
             "cityName": "किरायेदार वाई",
-            "locale": "in_en",
-            "tenantId": "in.statea.tenanty"
-        },
-        {
-            "cityName": "शहर ब",
             "locale": "in_hi",
             "tenantId": "in.statea.tenanty"
         },
         {
-            "cityName": "किरायेदार जेड",
+            "cityName": "Tenant Z",
             "locale": "in_en",
             "tenantId": "in.statea.tenantz"
         },
         {
-            "cityName": "शहर स",
+            "cityName": "किरायेदार जेड",
             "locale": "in_hi",
             "tenantId": "in.statea.tenantz"
         },
